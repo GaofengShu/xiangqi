@@ -12,3 +12,5 @@
 \contentsline {subsection}{\numberline {1.1.10}高低兵巧胜单缺象}{4}
 \contentsline {subsection}{\numberline {1.1.11}高低兵巧胜单缺士}{5}
 \contentsline {subsection}{\numberline {1.1.12}高低兵巧胜士象全（一）}{5}
+\contentsline {subsection}{\numberline {1.1.13}高低兵巧胜士象全（二）}{5}
+\contentsline {subsection}{\numberline {1.1.14}双高兵胜单炮}{6}
