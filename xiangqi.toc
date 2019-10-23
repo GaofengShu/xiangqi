@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {第一章\hspace {0.3em}}胜局定式篇}{1}
+\contentsline {section}{\numberline {1.1}兵类}{1}
+\contentsline {subsection}{\numberline {1.1.1}高兵巧胜单士}{1}
+\contentsline {subsection}{\numberline {1.1.2}高兵相巧胜单士}{1}
+\contentsline {subsection}{\numberline {1.1.3}高兵仕巧胜单士}{2}
+\contentsline {subsection}{\numberline {1.1.4}高兵巧胜双士}{2}
+\contentsline {subsection}{\numberline {1.1.5}高低兵巧胜士象}{2}
+\contentsline {subsection}{\numberline {1.1.6}高底兵巧胜双士}{3}
+\contentsline {subsection}{\numberline {1.1.7}高低兵胜双士}{3}
+\contentsline {subsection}{\numberline {1.1.8}双低兵巧胜双象}{3}
+\contentsline {subsection}{\numberline {1.1.9}高低兵胜双象}{4}
+\contentsline {subsection}{\numberline {1.1.10}高低兵巧胜单缺象}{4}
+\contentsline {subsection}{\numberline {1.1.11}高低兵巧胜单缺士}{5}
+\contentsline {subsection}{\numberline {1.1.12}高低兵巧胜士象全（一）}{5}

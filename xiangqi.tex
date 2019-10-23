@@ -1,0 +1,437 @@
+\documentclass[UTF8]{ctexbook}
+
+%\usepackage{graphicx,booktabs}%插入图表功能
+\usepackage[top=1in , bottom =1in , left=1.25in , right =1.25in]{geometry}
+\usepackage{cchess}
+\usepackage{subfig}
+\usepackage{wrapfig}
+
+\newcommand{\rc}[2]{\piece{#1}{#2}{r}} \newcommand{\bc}[2]{\piece{#1}{#2}{R}}
+\renewcommand{\rm}[2]{\piece{#1}{#2}{n}} \newcommand{\bm}[2]{\piece{#1}{#2}{N}}
+\newcommand{\rx}[2]{\piece{#1}{#2}{b}} \newcommand{\bx}[2]{\piece{#1}{#2}{B}}
+\newcommand{\rs}[2]{\piece{#1}{#2}{g}} \newcommand{\bs}[2]{\piece{#1}{#2}{G}}
+\newcommand{\rj}[2]{\piece{#1}{#2}{k}} \newcommand{\bj}[2]{\piece{#1}{#2}{K}}
+\newcommand{\rp}[2]{\piece{#1}{#2}{c}} \newcommand{\bp}[2]{\piece{#1}{#2}{C}}
+\newcommand{\rb}[2]{\piece{#1}{#2}{p}} \newcommand{\bb}[2]{\piece{#1}{#2}{P}}
+
+
+\title{象棋胜和定式}
+\author{金启昌\quad 杨\quad 典}
+\date{1999 年 7 月  \\ \vspace{14cm} 北京体育大学出版社
+}
+
+\begin{document}
+
+\maketitle
+
+\thispagestyle{empty}
+\begin{center}
+{\zihao{2}\textbf{前言} }
+\end{center}
+\vspace{3cm}
+
+象棋对弈的全过程，一般要经历开局（布局）、中局、残局三个阶段。本丛书专门论述残局实战技巧和胜和规律。
+
+残局，作为全局中的结束阶段，一局棋的胜、负、和往往到此阶段决出结果。残晑中双方的对峙形势，往往是棋手在中局甚至布局时确定战略方针的依据。但残局又具有与其它阶段不同的特点和胜和规律。残局子力少，局势相对较为筒明，利于锻炼各种能力。所以，古往今来的众多棋手都把残局作为必修的基本功。
+
+为帮助广大象棋爱好者丰富残局的知识和经验，掌握残局的攻守技巧和胜和规律，尽快提高驾驭残局的能力，特策划编写出版了这套《象棋残局战法丛书》。
+
+《象棋残局战法丛书》共分5册：《象棋残局攻杀技巧》、《象棋残局妙手精华》、《象棋残局名局战术》、《象棋残局胜和定式》、《象棋残局生死棋型》.前3册战例均选自国内外重大象棋比赛的名手对局，实战性和实用性皆较强。《胜和定式》大部分来自实用残局；《生死棋型》是把常见的江湖残局归纳整理，进一步升华。
+
+残局是以多种多样的战术手段为主体的战斗，“残局妙手”往往是在胜和要点的关键时刻起决定性作用，它是棋手们呕心呖血的艺术结局，是残局中各种各样的战术的精华，颇能引人入胜、引人入迷。本丛书以实战性和实用性为宗旨，以实战技巧和胜和规律为主线，选用了1000余例精妙残局，精心归纳整理，就象棋残局的不同攻杀特点和胜和规律，及与此有关的战略战术运用要点，分别详加阐述和印证，完整地展示了象棋残局研究的全貌，是一部难得的上佳之作。
+
+由于写作时间仓促，书中不当之处，恳请读者、方家见谅并不吝指正。
+
+如果你通过本丛书的学习而有所裨益，笔者将感到欣慰。
+
+~\\
+
+编著者
+
+1999年春于北京 \footnote{2019年10月20日，舒高峰使用 \LaTeX{} 及 cchess 宏包整理而成。}
+
+
+\clearpage
+\tableofcontents
+\thispagestyle{empty}
+
+
+\clearpage
+\chapter{胜局定式篇}
+
+\pagestyle{heading}
+\setcounter{page}{1}
+\section{兵类}
+\subsection{高兵巧胜单士}
+\begin{wrapfigure}{r}{5cm}
+\centering
+\vspace{-.8cm}
+\smallboard
+\begin{position}
+\rj{f}{1} \rb{f}{7}
+
+\bj{f}{10} \bs{d}{10}
+\end{position}
+\caption{} \label{高兵巧胜单士} 
+\end{wrapfigure}
+（图\ref{高兵巧胜单士}），单高兵对单士，正常形势下成为和局。当形势特殊时，单高兵攻单士属于巧胜局。此局巧胜要诀：（一）兵逼九宫胁将；（二）帅占中路，小兵灭士。
+
+1. 兵四进一，士4进5
+
+2. 兵四进一，将6平5
+
+3. 帅四平五，将5平4
+
+4. 兵四平五
+
+红胜。
+
+\subsection{高兵相巧胜单士}
+\begin{wrapfigure}{r}{5cm}
+\centering
+\vspace{-.8cm}
+\smallboard
+\begin{position}
+\rj{f}{1} \rx{e}{3} \rb{e}{7}
+
+\bj{e}{10} \bs{d}{10}
+\end{position}
+\caption{} \label{高兵相巧胜单士} 
+\end{wrapfigure}
+（图\ref{高兵相巧胜单士}），此局巧胜要诀：（一）兵入中官控将，形成左（右）兵右（左）帅的势态；（二）等待黑方落土后，兵从无士一边进入象腰。
+
+1.兵五进一，士4进5
+
+2.帅四平五，士5退4
+
+3.兵五平四，将5平6
+
+4.帅五平四，士4进5
+
+5.兵四进一，将6平5
+
+6.帅四平五，士5退6
+
+7.帅五平六
+
+形成“左帅右兵”，已成胜式。
+
+7. ..............，士6进5
+
+8. 相五退三，士5退6
+
+9. 帅六进一，..............
+
+落相、进帅，运用等着入局。
+
+9. ..............，士6进5
+
+10.帅六平五
+
+红胜。
+\subsection{高兵仕巧胜单士}
+\begin{wrapfigure}{r}{5cm}
+\centering
+\vspace{-.8cm}
+\smallboard
+\begin{position}
+\rj{e}{1} \rs{e}{2} \rb{f}{7}
+
+\bj{e}{10} \bs{d}{10}
+\end{position}
+\caption{}\label{高兵仕巧胜单士} 
+\end{wrapfigure}
+
+（图\ref{高兵仕巧胜单士}），此局巧胜要诀与上局类同，其中红方仕、兵亦有定的作用，帅借仕（兵）遮头，起控制或助攻之妙用。
+
+1.兵四进一，将5进1
+
+如改走士4进5（如将5平6，则帅五平四，士4进5，兵四进一，将6平5，帅四平五红胜），则兵四进一，士5进6，帅五平六，士6退5，仕五退四，士5进6，帅六进一，士6退5，帅六平五，红胜。
+
+2.帅五平六！将5退1
+
+3.兵四进一，士4进5
+
+4.仕五退四，士5进4
+
+5.帅六进一，将5平4
+
+6.兵四平五
+
+红胜。
+
+\subsection{高兵巧胜双士}
+\begin{wrapfigure}{r}{5cm}
+\centering
+\vspace{-.8cm}
+\smallboard
+\begin{position}
+\rj{f}{1} \rb{e}{8}
+
+\bj{f}{10} \bs{f}{8} \bs{d}{8}
+\end{position}
+\caption{}\label{高兵巧胜双士} 
+\end{wrapfigure}
+（图\ref{高兵巧胜双士}），此局巧胜要诀：（一）小兵破士（左、右士）；（二）用帅走闲等着，得士或使黑方欠行。
+
+【第一种胜法】
+
+1.兵五平四，将6平5
+
+2.兵四进一，将5平4
+
+3.帅四平五，将4进1
+
+4.帅五平六，将4退1
+
+5.兵四平五
+
+红胜。
+
+【第二种胜法】
+
+1.兵五平六，将6平5
+
+2.兵六进一，士6退5
+
+3.帅四平五，将5平6
+
+4.兵六乎五
+
+红胜。
+
+\subsection{高低兵巧胜士象}
+（图\ref{高低兵巧胜士象}），此局巧胜要诀：（一）首着红帅牵制将、土；（二）后兵插进，控将得士。
+
+1.帅五平六！将4平5
+
+如改走将4进1，则后兵进一，象9进7，帅六进一，象7退9，后兵平五，红胜。
+
+2.后兵进一，象9进7 \qquad 3.帅六进一，士4退5
+
+4.帅六平五，象7退5 \qquad 5.前兵平五，将5进1
+
+6.兵四平五
+
+红胜。
+
+\begin{figure}[!htbp]
+\centering
+	\begin{minipage}{0.45\textwidth}
+	\centering
+		\smallboard
+		\begin{position}
+		\rj{e}{1} \rb{f}{7} \rb{f}{9}
+		
+		\bj{d}{10} \bs{d}{8} \bx{i}{8}
+		\end{position}
+	\caption{} \label{高低兵巧胜士象} 
+	\end{minipage}
+	\begin{minipage}{0.45\textwidth}
+	\centering
+		\smallboard
+		\begin{position}
+		\rj{f}{1} \rb{e}{7} \rb{c}{10}
+		
+		\bj{e}{10} \bs{d}{10} \bs{f}{10}
+		\end{position}
+	\caption{}\label{高底兵巧胜双士} 
+	\end{minipage}
+\end{figure}
+
+\subsection{高底兵巧胜双士}
+（图\ref{高底兵巧胜双士}），此局巧胜要诀：（一）冲中兵；（二）用帅控将。
+
+1.兵五进一，士6进5 \qquad 2.帅四进一！士5退6
+
+3.兵五平六，士4进5 \qquad 4.兵六进一
+
+或走帅四平五！红胜。
+
+
+\subsection{高低兵胜双士}
+（图\ref{高低兵胜双士}），属例胜（稳胜）局。
+
+1.兵七进一！将4退1
+
+如改走将4进1，则帅四平五！以后再兵四平五，红胜。
+
+2.帅四平五，士5进4 \qquad 3.兵四进一，士4退5
+
+4.兵四平五，将4平5 \qquad 5.兵五进一！士6进5
+
+6.兵七平六
+
+红胜。
+
+\begin{figure}[!htbp]
+\centering
+	\begin{minipage}{0.45\textwidth}
+	\centering
+		\smallboard
+		\begin{position}
+		\rj{f}{1} \rb{f}{7} \rb{c}{8}
+		
+		\bj{d}{9} \bs{e}{9} \bs{f}{10}
+		\end{position}
+	\caption{} \label{高低兵胜双士} 
+	\end{minipage}
+	\begin{minipage}{0.45\textwidth}
+	\centering
+		\smallboard
+		\begin{position}
+		\rj{f}{1} \rb{f}{9} \rb{c}{8}
+		
+		\bj{d}{9} \bx{a}{8} \bx{e}{8}
+		\end{position}
+	\caption{}\label{双低兵巧胜双象} 
+	\end{minipage}
+\end{figure}
+
+\subsection{双低兵巧胜双象}
+（图\ref{双低兵巧胜双象}），此局巧胜要诀：用帅控制黑方中象，分兵掠象破局。
+
+1.帅四平五！象1进3 \qquad 2.兵七平八！象3退1
+
+3.兵八平九
+
+红胜。
+
+\subsection{高低兵胜双象}
+（图\ref{高低兵胜双象}）高低兵攻双象，属例胜局。
+
+1.兵二平三，将6平5 \qquad 2.兵四平五，象5退3
+
+3.帅五平四！象3进5 \qquad 4.兵三平四，将5平4
+
+5.帅四平五，象5进7 \qquad 6.兵五平六，象7退5
+
+7.帅五平六
+
+伏兵六进一冲兵杀，红胜。
+
+\begin{figure}[!htbp]
+\centering
+	\begin{minipage}{0.45\textwidth}
+	\centering
+		\smallboard
+		\begin{position}
+		\rj{e}{1} \rb{f}{7} \rb{h}{9}
+		
+		\bj{f}{9} \bx{e}{8} \bx{c}{6}
+		\end{position}
+	\caption{} \label{高低兵胜双象} 
+	\end{minipage}
+	\begin{minipage}{0.45\textwidth}
+	\centering
+		\smallboard
+		\begin{position}
+		\rj{e}{1} \rb{e}{6} \rb{f}{9}
+		
+		\bj{e}{10} \bx{e}{8} \bs{e}{9} \bs{d}{10}
+		\end{position}
+	\caption{}\label{高低兵巧胜单缺象} 
+	\end{minipage}
+\end{figure}
+
+\subsection{高低兵巧胜单缺象}
+（图\ref{高低兵巧胜单缺象}），此局巧胜要诀：用高兵胁象，然后向低兵靠拢，控象、士禁毙入局。
+
+1.兵五进一，象5退3 \qquad 2.兵五平四，象3进5
+
+3.帅五进一！..............
+
+等着！控制黑方士象。
+
+3. ..............，象5退3 \qquad 4.后兵进一，象3进1
+
+5.前兵平三！..............
+
+分兵是获胜的关键着法。亦可走后兵平三！
+
+5. ..............，象1进3
+
+如改走将5平6，则兵四进一再兵三进一，红胜。
+
+6.兵四进一，象3退5 \qquad 7.兵三进一！象5进3
+
+8.兵三平四
+
+红胜。
+\subsection{高低兵巧胜单缺士}
+\begin{wrapfigure}{r}{5cm}
+\centering
+\vspace{-.8cm}
+\smallboard
+\begin{position}
+\rj{e}{1} \rb{f}{7} \rb{d}{9}
+
+\bj{e}{10} \bs{e}{9} \bx{e}{8} \bx{g}{10}
+\end{position}
+\caption{}\label{高低兵巧胜单缺士} 
+\end{wrapfigure}
+（图\ref{高低兵巧胜单缺士}），此局巧胜要诀：分兵左右夹击，控制黑士，形成“兵前帅后”入局。
+
+1.兵四平三！士5进4
+
+如改走象5进3，则兵四进一，象3退5，兵四进一，士5进6，帅五平六，红胜。
+
+2.兵三进一，将5平6
+
+3.兵三平四，象5进7
+
+4.帅五平四！象7退5
+
+5.兵四进一
+
+红胜。
+\subsection{高低兵巧胜士象全（一）}
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+..............
+
+\begin{wrapfigure}{r}{5cm}
+\centering
+\vspace{-.8cm}
+\smallboard
+\begin{position}
+\rj{f}{1} \rb{e}{8}
+
+\bj{f}{10} \bs{f}{8} \bs{d}{8}
+\end{position}
+\caption{}\label{高兵巧胜双士} 
+\end{wrapfigure}
+
+\begin{figure}[!htbp]
+\centering
+	\begin{minipage}{0.45\textwidth}
+	\centering
+		\smallboard
+		\begin{position}
+		\rj{e}{1} \rb{f}{7} \rb{h}{9}
+		
+		\bj{f}{9} \bx{e}{8} \bx{c}{6}
+		\end{position}
+	\caption{} \label{高低兵胜双象} 
+	\end{minipage}
+	\begin{minipage}{0.45\textwidth}
+	\centering
+		\smallboard
+		\begin{position}
+		\rj{e}{1} \rb{e}{6} \rb{f}{9}
+		
+		\bj{e}{10} \bx{e}{8} \bs{e}{9} \bs{d}{10}
+		\end{position}
+	\caption{}\label{高低兵巧胜单缺象} 
+	\end{minipage}
+\end{figure}
