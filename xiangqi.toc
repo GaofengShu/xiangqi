@@ -18,3 +18,9 @@
 \contentsline {subsection}{\numberline {1.1.16}双高兵巧胜炮士}{6}
 \contentsline {subsection}{\numberline {1.1.17}高低兵巧胜单马}{7}
 \contentsline {subsection}{\numberline {1.1.18}双低兵巧胜马士}{7}
+\contentsline {subsection}{\numberline {1.1.19}双低兵巧胜马双象}{8}
+\contentsline {subsection}{\numberline {1.1.20}三低兵巧胜单缺象}{8}
+\contentsline {subsection}{\numberline {1.1.21}三兵胜卒单缺士（一）}{8}
+\contentsline {subsection}{\numberline {1.1.22}三兵胜卒单缺士（二）}{9}
+\contentsline {subsection}{\numberline {1.1.23}三兵胜士象全}{9}
+\contentsline {subsection}{\numberline {1.1.24}三兵胜炮双象}{10}
