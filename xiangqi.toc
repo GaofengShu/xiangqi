@@ -24,3 +24,13 @@
 \contentsline {subsection}{\numberline {1.1.22}三兵胜卒单缺士（二）}{9}
 \contentsline {subsection}{\numberline {1.1.23}三兵胜士象全}{9}
 \contentsline {subsection}{\numberline {1.1.24}三兵胜炮双象}{10}
+\contentsline {subsection}{\numberline {1.1.25}三兵巧胜炮双士}{10}
+\contentsline {subsection}{\numberline {1.1.26}三兵巧胜炮士象}{10}
+\contentsline {subsection}{\numberline {1.1.27}三兵胜马双象}{11}
+\contentsline {subsection}{\numberline {1.1.28}三兵巧胜马双士}{11}
+\contentsline {subsection}{\numberline {1.1.29}三兵巧胜马士象}{12}
+\contentsline {subsection}{\numberline {1.1.30}三兵巧胜单车}{12}
+\contentsline {section}{\numberline {1.2}炮类}{12}
+\contentsline {subsection}{\numberline {1.2.1}炮仕胜双士}{12}
+\contentsline {subsection}{\numberline {1.2.2}炮仕巧胜高卒}{13}
+\contentsline {subsection}{\numberline {1.2.3}炮仕巧胜双低卒}{13}
