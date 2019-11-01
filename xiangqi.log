@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2016.11.15)  31 OCT 2019 13:42
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2016.11.15)  1 NOV 2019 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1451,22 +1451,36 @@ Package wrapfig Warning: Collision between wrapping environments on input line
 Package wrapfig Warning: Stationary wrapfigure forced to float on input line 14
 11.
 
-[18] [19] [20] [21] [22]
+[18] [19] [20] [21] [22] [23]
 
-LaTeX Warning: Reference `炮低兵相巧胜单象' on page 23 undefined on input line 1736.
+Package wrapfig Warning: Collision between wrapping environments on input line 
+1836.
 
-[23] (./xiangqi.aux)
 
-LaTeX Warning: There were undefined references.
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 18
+47.
 
- ) 
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 18
+49.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 18
+51.
+
+[24]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 18
+53.
+
+[25] (./xiangqi.aux) ) 
 Here is how much of TeX's memory you used:
- 22218 strings out of 493591
- 467497 string characters out of 6146793
+ 22223 strings out of 493591
+ 467549 string characters out of 6146793
  492377 words of memory out of 5000000
- 25433 multiletter control sequences out of 15000+600000
+ 25438 multiletter control sequences out of 15000+600000
  8813 words of font info for 65 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  65i,14n,78p,10415b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on xiangqi.pdf (27 pages).
+Output written on xiangqi.pdf (29 pages).
