@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2016.11.15)  2 NOV 2019 23:04
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2016.11.15)  3 NOV 2019 19:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1476,14 +1476,43 @@ Package wrapfig Warning: Stationary wrapfigure forced to float on input line 18
 [25] [26] [27] [28]
 Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text!
- [29] [30] [31] (./xiangqi.aux) ) 
+ [29] [30]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+2364.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 23
+75.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 23
+77.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 23
+79.
+
+[31]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+2436.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 24
+47.
+
+[32] [33]
+Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text!
+ [34] [35] (./xiangqi.aux) ) 
 Here is how much of TeX's memory you used:
- 22237 strings out of 493591
- 467712 string characters out of 6146793
+ 22247 strings out of 493591
+ 467787 string characters out of 6146793
  492377 words of memory out of 5000000
- 25452 multiletter control sequences out of 15000+600000
+ 25462 multiletter control sequences out of 15000+600000
  8813 words of font info for 65 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  65i,14n,78p,10415b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on xiangqi.pdf (37 pages).
+Output written on xiangqi.pdf (41 pages).
