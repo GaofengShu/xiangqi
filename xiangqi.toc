@@ -90,3 +90,8 @@
 \contentsline {subsection}{\numberline {1.4.10}双马胜马双象}{34}
 \contentsline {section}{\numberline {1.5}马兵类}{35}
 \contentsline {subsection}{\numberline {1.5.1}马底兵胜单象}{35}
+\contentsline {subsection}{\numberline {1.5.2}马底兵胜士象}{35}
+\contentsline {subsection}{\numberline {1.5.3}马底兵胜双士}{36}
+\contentsline {subsection}{\numberline {1.5.4}马底兵巧胜双象}{36}
+\contentsline {subsection}{\numberline {1.5.5}马底兵巧胜单缺象}{36}
+\contentsline {subsection}{\numberline {1.5.6}马底兵巧胜士象全}{37}
