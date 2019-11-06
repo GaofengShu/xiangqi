@@ -95,3 +95,13 @@
 \contentsline {subsection}{\numberline {1.5.4}马底兵巧胜双象}{36}
 \contentsline {subsection}{\numberline {1.5.5}马底兵巧胜单缺象}{36}
 \contentsline {subsection}{\numberline {1.5.6}马底兵巧胜士象全}{37}
+\contentsline {subsection}{\numberline {1.5.7}马低兵巧胜单缺士}{37}
+\contentsline {subsection}{\numberline {1.5.8}马低兵巧胜单缺象}{37}
+\contentsline {subsection}{\numberline {1.5.9}马低兵巧胜士象全}{38}
+\contentsline {subsection}{\numberline {1.5.10}马低兵巧胜炮士}{38}
+\contentsline {subsection}{\numberline {1.5.11}马低兵巧胜炮双象}{38}
+\contentsline {subsection}{\numberline {1.5.12}马高兵胜单缺士}{39}
+\contentsline {subsection}{\numberline {1.5.13}马高兵胜单缺象}{39}
+\contentsline {subsection}{\numberline {1.5.14}马高兵巧胜士象全}{39}
+\contentsline {subsection}{\numberline {1.5.15}马高兵巧胜卒双士}{40}
+\contentsline {subsection}{\numberline {1.5.16}马高兵仕相胜卒双士}{40}
