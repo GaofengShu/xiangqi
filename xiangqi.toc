@@ -105,3 +105,14 @@
 \contentsline {subsection}{\numberline {1.5.14}马高兵巧胜士象全}{39}
 \contentsline {subsection}{\numberline {1.5.15}马高兵巧胜卒双士}{40}
 \contentsline {subsection}{\numberline {1.5.16}马高兵仕相胜卒双士}{40}
+\contentsline {subsection}{\numberline {1.5.17}马高兵胜炮士}{41}
+\contentsline {subsection}{\numberline {1.5.18}马高兵胜马士}{41}
+\contentsline {subsection}{\numberline {1.5.19}马高兵胜炮象}{42}
+\contentsline {subsection}{\numberline {1.5.20}马高兵巧胜马象}{42}
+\contentsline {subsection}{\numberline {1.5.21}马双高兵胜单缺象}{42}
+\contentsline {subsection}{\numberline {1.5.22}马双低兵巧胜马士象全}{43}
+\contentsline {subsection}{\numberline {1.5.23}双马兵胜马士象全}{43}
+\contentsline {subsection}{\numberline {1.5.24}双马兵胜炮士象全}{43}
+\contentsline {subsection}{\numberline {1.5.25}双马高兵双相胜单车}{44}
+\contentsline {section}{\numberline {1.6}马炮类}{44}
+\contentsline {subsection}{\numberline {1.6.1}马炮仕胜马双士}{44}
