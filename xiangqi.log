@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2016.11.15)  20 NOV 2019 22:34
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2016.11.15)  3 DEC 2019 22:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1381,11 +1381,11 @@ LaTeX Font Info:    Font shape `EU1/SimSun(0)/m/sl' in size <10.53937> not avai
 lable
 (Font)              Font shape `EU1/SimSun(0)/m/it' tried instead on input line
  71.
- [4] [5])
+ [4] [5] [6] [7])
 \tf@toc=\write3
 \openout3 = `xiangqi.toc'.
 
- [6]
+ [8]
 第一章
 
 Package wrapfig Warning: Collision between wrapping environments on input line 
@@ -1544,14 +1544,124 @@ Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text!
  [49] [50] [51] [52] [53] [54]
-(./xiangqi.aux) ) 
+[55] [56] [57] [58] [59]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+4438.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 44
+49.
+
+[60]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+4469.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 44
+80.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+4498.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 45
+10.
+
+[61]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+4574.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 45
+86.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 45
+88.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 45
+90.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 45
+92.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 45
+94.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 45
+96.
+
+Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text!
+[62] [63] [64] [65] [66]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+4916.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 49
+27.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 49
+29.
+
+[67] [68]
+Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text!
+ [69]
+Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text!
+ [70]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+5179.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 51
+90.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 51
+92.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+5206.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 52
+17.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 52
+19.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 52
+21.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 52
+23.
+
+[71] [72] [73] [74] (./xiangqi.aux) ) 
 Here is how much of TeX's memory you used:
- 22304 strings out of 493591
- 468962 string characters out of 6146793
+ 22383 strings out of 493591
+ 471477 string characters out of 6146793
  493377 words of memory out of 5000000
- 25519 multiletter control sequences out of 15000+600000
+ 25598 multiletter control sequences out of 15000+600000
  8813 words of font info for 65 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  65i,14n,78p,10415b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on xiangqi.pdf (60 pages).
+Output written on xiangqi.pdf (82 pages).
